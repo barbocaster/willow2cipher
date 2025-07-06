@@ -8,3 +8,9 @@ I found this really cool cipher made by @willowneon on discord and I decided to 
 - [ ] encoder output is a little bit messy
 - [ ] handle errors more gracefully
 - [ ] do some optimizations 
+
+# How to run it
+
+```git clone https://github.com/barbocaster/willow2cipher.git```
+```cd willow2cipher/src```
+```python3 willow.py```
